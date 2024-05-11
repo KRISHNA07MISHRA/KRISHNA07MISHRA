@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krishna07mishra" alt="krishna07mishra" /></a> </p>
 
-- 🔭 I’m currently working on **personal portfolio**
+- 🔭 I’m currently working on **RESUME MAKER APPLICATION**
 
 - 🌱 I’m currently learning **ANDROID DEVELOPMENT**
 
@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://bio.link/krishnanandmishra](https://bio.link/krishnanandmishra)
 
-- 💬 Ask me about **DATA STRUCTURE AND ALGORITHM**
+- 💬 Ask me about **DATA STRUCTURE AND ALGORITHM && ANDROID DEVELOPMENT**
 
 - 📫 How to reach me **krishnanandmishra386@gmail.com**
 
